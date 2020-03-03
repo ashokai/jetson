@@ -1,10 +1,6 @@
 wav_filename,wav_filesize,transcript
 call_mom_8.wav,88044,call my mom
-call_mom_12.wav,88044,call my mom
-call_mom_13.wav,68044,call my mom
 chg_bl_8.wav,96044,change colour to blue
-chg_bl_13.wav,100044,change colour to blue
-chg_bl_14.wav,88044,change colour to blue
 helo123_8.wav,72044,hello one two three
 helo123.wav,80044,hello one two three
 how_are_you.wav,52044,how are you
@@ -15,9 +11,6 @@ play_fm91_13.wav,116044,play fm ninety one station
 play_fm91_14.wav,116044,play fm ninety one station
 play_raga_7.wav,88044,play raga station
 play_raga_8.wav,92044,play raga station
-play_raga_9.wav,84044,play raga station
-play_raga_15.wav,100044,play raga station
-play_raga_16.wav,112044,play raga station
 stop_8.wav,72044,stop
 stop_14.wav,68044,stop
 toflg_9.wav,52044,turn of the light
@@ -25,17 +18,8 @@ tonlg_7.wav,84044,turn on the light
 tonlg_8.wav,100044,turn on the light
 what_time_8.wav,92044,what time is it
 unz_en_gen_1583241863589.wav,36908,next playlist
-unz_en_gen_1583241877710.wav,28716,change playlist
-unz_en_gen_1583241880677.wav,36908,change playlist
 unz_en_gen_1583241883871.wav,28716,change playlist
 unz_en_gen_1583241896877.wav,45100,previous playlist
-unz_en_gen_1583241899883.wav,57388,previous playlist
-unz_en_gen_1583241903167.wav,41004,previous playlist
 unz_en_gen_1583241986937.wav,127020,play latest musics
-unz_en_gen_1583241990832.wav,131116,play latest musics
-unz_en_gen_1583241994942.wav,110636,play latest musics
 unz_en_gen_1583242023451.wav,102444,play top ten songs
-unz_en_gen_1583242027241.wav,122924,play top ten songs
-unz_en_gen_1583242031282.wav,127020,play top ten songs
 unz_en_gen_1583242054832.wav,127020,play tamil songs
-unz_en_gen_1583242058930.wav,94252,play tamil songs
