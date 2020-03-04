@@ -1,35 +1,101 @@
 wav_filename,wav_filesize,transcript
-tonlg_6.wav,84078,turn on the light
-play_fm91_7.wav,108078,play fm ninety one station
-play_raga_10.wav,84078,play raga station
-stop_9.wav,60078,stop
-chg_bl_12.wav,88078,change colour to blue
-unz_en_gen_1583241642845.wav,11932,previous song
-toflg_6.wav,80078,turn off the light
-unz_en_gen_1583241818250.wav,16390,poweron
-unz_en_gen_1583241994942.wav,40168,play latest musics
-unz_en_gen_1583242027241.wav,44626,play top ten songs
-stop_12.wav,60078,stop
-unz_en_gen_1583241612162.wav,16390,next song
-how_are_you7.wav,72078,how are you
-what_time_9.wav,76078,what time is it
-call_mom_11.wav,68078,call my mom
-unz_en_gen_1583241899883.wav,20850,previous playlist
-toflg_7.wav,68078,turn off the light
-helo123_6.wav,68078,hello one two three
-stop_13.wav,60078,stop
-unz_en_gen_1583241795749.wav,25308,poweroff
-chg_bl_9.wav,84078,change colour to blue
-unz_en_gen_1583241852475.wav,29766,next playlist
-unz_en_gen_1583242031282.wav,46112,play top ten songs
-unz_en_gen_1583241877710.wav,10446,change playlist
-play_raga_11.wav,108078,play raga station
-call_mom_9.wav,80078,call my mom
-unz_en_gen_1583241903167.wav,14904,previous playlist
-how_are_you_9.wav,84078,how are you
-unz_en_gen_1583241990832.wav,47598,play latest musics
-unz_en_gen_1583242058930.wav,34224,play tamil songs
-how_are_you6.wav,60078,how are you
-unz_en_gen_1583241657453.wav,13418,shuffle music
-helo123_7.wav,68078,hello one two three
-chg_bl_11.wav,68078,change colour to blue
+unz_en_gen_1583326438404.wav,56514,how much fuel left
+unz_en_gen_1583324382084.wav,62460,with less sugar
+unz_en_gen_1583332852635.wav,41654,take me to home
+unz_en_gen_1583324092605.wav,68404,turn off camera
+unz_en_gen_1583323451680.wav,63946,this is so cool
+unz_en_gen_1583333864361.wav,50570,increase brightness
+unz_en_gen_1583326323369.wav,63946,emergency call police
+unz_en_gen_1583323964206.wav,40168,call my dad
+unz_en_gen_1583326303940.wav,60974,attention call police
+unz_en_gen_1583332139041.wav,46112,find my phone
+unz_en_gen_1583332978369.wav,46112,seek for help
+unz_en_gen_1583333845017.wav,43140,reduce brightness
+unz_en_gen_1583324192908.wav,53542,order a pizza
+unz_en_gen_1583323385757.wav,47598,stop music
+unz_en_gen_1583332932696.wav,44626,set to cruise mode
+unz_en_gen_1583327430373.wav,59488,turn on air condition
+unz_en_gen_1583332252701.wav,38682,where is my
+unz_en_gen_1583332957562.wav,41654,emergency alert
+unz_en_gen_1583333226882.wav,49084,where is my wallet
+unz_en_gen_1583332168218.wav,53542,what is the mileage
+unz_en_gen_1583323383163.wav,46112,stop music
+unz_en_gen_1583313842315.wav,59488,turn on the light
+unz_en_gen_1583333419417.wav,46112,what is my goal
+unz_en_gen_1583326717120.wav,53542,turn on wiper
+unz_en_gen_1583332179032.wav,44626,what is the mileage
+unz_en_gen_1583333290224.wav,41654,read my email
+unz_en_gen_1583324303818.wav,34224,disconnect
+unz_en_gen_1583333884262.wav,58002,i am going to sleep
+unz_en_gen_1583333391124.wav,40168,ninety one
+unz_en_gen_1583324110202.wav,50570,make me a coffer
+unz_en_gen_1583333282172.wav,43140,read my email
+unz_en_gen_1583332989508.wav,38682,seek for help
+unz_en_gen_1583332355830.wav,41654,place order
+unz_en_gen_1583326432934.wav,60974,how much fuel left
+unz_en_gen_1583333925716.wav,47598,change my mood
+unz_en_gen_1583332254884.wav,40168,where is my
+unz_en_gen_1583333100721.wav,49084,set meeting mode
+unz_en_gen_1583324155287.wav,40168,bye bye
+unz_en_gen_1583323330902.wav,49084,play next song
+unz_en_gen_1583326857961.wav,35710,taking right
+unz_en_gen_1583315311461.wav,47598,turn on the light
+unz_en_gen_1583323943373.wav,53542,call my mom
+unz_en_gen_1583315594557.wav,46112,what is the time
+unz_en_gen_1583326755261.wav,43140,stop wiper
+unz_en_gen_1583333850246.wav,44626,reduce brightness
+unz_en_gen_1583324387903.wav,59488,with less sugar
+unz_en_gen_1583333232143.wav,53542,where is my wallet
+unz_en_gen_1583332181601.wav,41654,what is the mileage
+unz_en_gen_1583333563056.wav,49084,i am having headache
+unz_en_gen_1583324396420.wav,52056,no sugar
+unz_en_gen_1583323316553.wav,53542,play next song
+unz_en_gen_1583323754173.wav,72862,play latest musics
+unz_en_gen_1583326320386.wav,60974,emergency call police
+unz_en_gen_1583332290471.wav,25308,get cold water
+unz_en_gen_1583315547181.wav,35710,play songs
+unz_en_gen_1583332401232.wav,40168,search for
+unz_en_gen_1583325928922.wav,55028,make me strong coffee
+unz_en_gen_1583332114740.wav,41654,close the door
+unz_en_gen_1583326571871.wav,78806,cannot take driving now
+unz_en_gen_1583315470224.wav,38682,play music
+unz_en_gen_1583333205831.wav,46112,make ice coffee
+unz_en_gen_1583324131856.wav,35710,stop
+unz_en_gen_1583333079710.wav,47598,cancel the meeting
+unz_en_gen_1583323895133.wav,65432,provide the estimation
+unz_en_gen_1583326295040.wav,63946,attention call police
+unz_en_gen_1583332934909.wav,46112,set to cruise mode
+unz_en_gen_1583324260953.wav,40168,logout
+unz_en_gen_1583332398932.wav,41654,search for
+unz_en_gen_1583333359897.wav,92180,ten twenty thirty forty fifty sixty
+unz_en_gen_1583324160305.wav,38682,bye bye
+unz_en_gen_1583323732739.wav,77320,play top ten songs
+unz_en_gen_1583333861799.wav,49084,increase brightness
+unz_en_gen_1583323776268.wav,71376,change colour to blue
+unz_en_gen_1583332283069.wav,35710,get cold water
+unz_en_gen_1583323498125.wav,63946,you are doing great
+unz_en_gen_1583323388654.wav,49084,stop music
+unz_en_gen_1583323821809.wav,65432,what are you working on
+unz_en_gen_1583332826447.wav,41654,turn on TV
+unz_en_gen_1583333203422.wav,46112,make ice coffee
+unz_en_gen_1583326492348.wav,129332,one two three four five six
+unz_en_gen_1583326210623.wav,60974,emergency call doctor
+unz_en_gen_1583332245725.wav,41654,where is my
+unz_en_gen_1583323901304.wav,60974,provide the estimation
+unz_en_gen_1583333626312.wav,50570,i cannot sleep
+unz_en_gen_1583324311577.wav,38682,disconnect
+unz_en_gen_1583333414158.wav,53542,what is my goal
+unz_en_gen_1583326975497.wav,50570,check tyre pressure
+unz_en_gen_1583315599979.wav,47598,what is the time
+unz_en_gen_1583332065804.wav,66918,play news from ndtv
+unz_en_gen_1583323394652.wav,52056,stop music
+unz_en_gen_1583333268076.wav,41654,read my book
+unz_en_gen_1583333856671.wav,47598,increase brightness
+unz_en_gen_1583323426248.wav,56514,how are you
+unz_en_gen_1583332985080.wav,40168,seek for help
+unz_en_gen_1583332200814.wav,66918,how much kilometers possible
+unz_en_gen_1583326385969.wav,53542,get my reminders
+unz_en_gen_1583323898309.wav,56514,provide the estimation
+unz_en_gen_1583333107877.wav,52056,set meeting mode
+unz_en_gen_1583333187256.wav,46112,make ice coffee
+unz_en_gen_1583323974310.wav,49084,call my wife
